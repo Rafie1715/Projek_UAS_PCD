@@ -46,18 +46,3 @@ pip install matplotlib
 5.  Jendela aplikasi akan muncul.
 6.  Klik tombol **"Upload Foto"** untuk memilih gambar manggis yang ingin dianalisis.
 7.  Setelah gambar ditampilkan, klik tombol **"Proses Gambar"** untuk melihat hasil deteksi dan histogramnya.
-
-## Tampilan Aplikasi
-
-Berikut adalah contoh tampilan dari aplikasi saat digunakan:
-
-*(Anda dapat menambahkan screenshot aplikasi di sini untuk memperjelas)*
-
-**Panel Kiri (Gambar Asli)**
-![Placeholder untuk Gambar Asli](https://via.placeholder.com/400x300.png?text=Upload+Gambar+Manggis+di+Sini)
-
-**Panel Kanan (Gambar Hasil)**
-![Placeholder untuk Gambar Hasil](https://via.placeholder.com/400x300.png?text=Hasil+Segmentasi+Warna)
-
-**Jendela Histogram**
-![Placeholder untuk Histogram](https://via.placeholder.com/600x300.png?text=Tampilan+Histogram+Hijau+dan+Ungu)
